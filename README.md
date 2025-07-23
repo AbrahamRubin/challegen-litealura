@@ -1,10 +1,10 @@
-# 📚 Literalura: Buscador y Gestor de Libros
+# Literalura: Buscador y Gestor de Libros
 
 Esta aplicación es un challenge desarrollado como parte del programa de formación **Oracle Next Education (ONE)** en conjunto con **Alura LATAM**. Su propósito es permitir la búsqueda y gestión de libros, integrándose con la API pública de **Gutendex** y almacenando los datos en una base de datos **SQL**.
 
----
+---------------------------------------------------------------------------------------------------------------
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 1. 🔎 **Buscar libro por título**  
    Permite buscar un libro consultando directamente la **API de Gutendex**. Si el libro es encontrado, se registra en la base de datos para su posterior gestión.
@@ -24,9 +24,9 @@ Esta aplicación es un challenge desarrollado como parte del programa de formaci
 6. ⛔ **Salir**  
    Finaliza la aplicación.
 
----
+---------------------------------------------------------------------------------------------------------------
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - Java
 - Spring Boot / JPA (según implementación)
@@ -34,14 +34,11 @@ Esta aplicación es un challenge desarrollado como parte del programa de formaci
 - Base de datos relacional (SQL)
 - IDE recomendado: IntelliJ IDEA o NetBeans
 
----
+---------------------------------------------------------------------------------------------------------------
 
-## 📖 Sobre el Challenge
+## Sobre el Challenge
 
 Este proyecto corresponde a un **challenge propuesto por Alura LATAM** dentro del programa de formación **ONE (Oracle Next Education)**. Su objetivo es practicar el consumo de APIs externas, almacenamiento de datos en bases de datos y diseño de aplicaciones Java de consola.
 
----
+---------------------------------------------------------------------------------------------------------------
 
-## ✅ Estado del Proyecto
-
-Challenge cumplido y aplicación funcional.
